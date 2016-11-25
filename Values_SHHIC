@@ -1,0 +1,22 @@
+0.050d0			!T (s) duracion simulacion
+1.d-2			!Cm (F/m**2)
+0.d0			!I (A/m**2)
+40.d1			!gkm(S/m**2)
+100.d1			!gnam(S/m**2)
+0.05d1			!glm(S/m**2)
+0.05d1			!glk(S/m**2)
+0.0175d1		!glna(S/m**2)
+2.7e-2                  !regulation term (1/s)
+0                       !regulation term (1=yes)
+1.0d-6			!dt (s)
+922.d-12		!Am membrane surface (m**2)
+2160.d-18		!wi volume - intracelular space (m**3)
+720.d-18		!we volume - extracelular space (m**3)
+310.d0			!Temperature (k)
+5.25d-2			!rho max pump current (A/m**2)
+1d1      		!period to write
+-0.00069        	!charge (C/m2) inside the cell must lead to resting potential -0.069  
+1			!Nerstchoice integer indicating how to calculate Nerst potentials
+1d0			!period to write2 between time 1 and time 2
+0.1 			!time 1
+0.3 			!time 2

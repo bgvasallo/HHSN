@@ -1,0 +1,3 @@
+0.01d0	!tsi start excitation
+0.005d0	!ts (s) duration of excitation
+0.07d0	!Isg(A/m**2) Iapp
